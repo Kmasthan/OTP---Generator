@@ -1,0 +1,15 @@
+#box
+{
+    border: 2px solid rbg(237, 146, 209);
+    width: 300px;
+    padding: 4%;
+    text-align: center;
+    background-color: rgb(70, 219,34);
+}
+h2
+{
+    border: 10px solid palevioletred;
+    background-color: purple;
+    font-style: italic;
+    text-align: center;
+}
